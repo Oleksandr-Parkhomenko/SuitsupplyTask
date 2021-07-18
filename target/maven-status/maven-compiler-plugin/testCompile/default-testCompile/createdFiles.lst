@@ -1,0 +1,6 @@
+pages/CoatPage.class
+base/TestBase.class
+tests/CreateNewJacketInCMJacketConfiguratorTest.class
+pages/HomePage.class
+pages/LeftSideMenuPage.class
+pages/DesignYourOwnSideMenuPage.class
